@@ -6,3 +6,7 @@
   - Manages the display of data
 - Controller = connects models, business logic and web pages
   - Handles page evens and navigation
+  
+  <img src="/Images/Jokes_index.png" width="500" />  
+  <img src="/Images/Joke_Detail_view.png" width="500" />  
+  <img src="/Images/Search.png" width="500" />
